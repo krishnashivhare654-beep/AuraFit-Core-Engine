@@ -1,0 +1,8 @@
+
+/target/
+/.idea/
+/*.iml
+/frontend/.next/
+/frontend/node_modules/
+.DS_Store
+
